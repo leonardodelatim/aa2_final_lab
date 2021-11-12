@@ -1,0 +1,5 @@
+Training Name: Advanced Deployment with Red Hat Ansible Automation 
+Start Date: October 25, 2021 
+Instructor: Wilson Harris
+
+Github repo: https://github.com/leonardodelatim/aa2_final_lab
